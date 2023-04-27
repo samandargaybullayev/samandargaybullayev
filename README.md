@@ -2,7 +2,7 @@
 <h3 align="center">A Developer from Uzbekistan</h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=azizbekrakhimjonov&label=Profile%20views&color=0e75b6&style=flat" alt="samandargaybullayev" /> </p>
 <p align="center">
-<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="40" height="40"> 
+<img src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif" width="40" height="20"> 
  </p>
 
 
